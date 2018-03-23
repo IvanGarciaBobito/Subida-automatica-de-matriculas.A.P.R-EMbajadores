@@ -1,0 +1,14 @@
+Creado por Ivan Garcia para la subida automatica de capturas al A.P.R
+_____________________________________________________________________
+
+06/01/2016 15:20:59   Conectando con el ftp del A.P.R
+06/01/2016 15:21:15   Error: WinSCP.SessionRemoteException: Connection failed. ---> WinSCP.SessionRemoteException: Timeout detected. (control connection)
+Connection failed.
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en WinSCP.SessionLogReader.Read(LogReadFlags flags)
+   en WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   en WinSCP.SessionElementLogReader.Read(LogReadFlags flags)
+   en WinSCP.CustomLogReader.TryWaitForNonEmptyElement(String localName, LogReadFlags flags)
+   en WinSCP.CustomLogReader.WaitForNonEmptyElement(String localName, LogReadFlags flags)
+   en WinSCP.Session.Open(SessionOptions sessionOptions)
+   en Subida_automatica_de_capturas_2.Form1.Form1_Load(Object sender, EventArgs e)

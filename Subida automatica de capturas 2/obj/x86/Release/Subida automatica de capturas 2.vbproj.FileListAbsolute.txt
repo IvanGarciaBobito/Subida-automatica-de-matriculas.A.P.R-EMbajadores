@@ -1,0 +1,30 @@
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\x86\Release\Subida automatica de capturas 2.exe
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\x86\Release\Subida automatica de capturas 2.pdb
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\x86\Release\Subida automatica de capturas 2.xml
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\x86\Release\WinSCPnet.dll
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.vbprojResolveAssemblyReference.cache
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida_automatica_de_capturas_2.Form1.resources
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida_automatica_de_capturas_2.Resources.resources
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.vbproj.GenerateResource.Cache
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.exe
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.xml
+C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.pdb
+C:\Users\turus\Desktop\guardar\Programacion\Codigos fuente\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.exe
+C:\Users\turus\Desktop\guardar\Programacion\Codigos fuente\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.xml
+C:\Users\turus\Desktop\guardar\Programacion\Codigos fuente\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.pdb
+E:\Programacion\Codigos fuente\nuevos programas con limite de tiempo a 1-8-17\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.exe
+E:\Programacion\Codigos fuente\nuevos programas con limite de tiempo a 1-8-17\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.xml
+E:\Programacion\Codigos fuente\nuevos programas con limite de tiempo a 1-8-17\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.pdb
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\x86\Release\Subida automatica de capturas 2.exe
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\x86\Release\Subida automatica de capturas 2.pdb
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\x86\Release\Subida automatica de capturas 2.xml
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.vbprojResolveAssemblyReference.cache
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida_automatica_de_capturas_2.Form1.resources
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida_automatica_de_capturas_2.Resources.resources
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.vbproj.GenerateResource.Cache
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.exe
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.xml
+C:\Users\turus\Desktop\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.pdb
+C:\Users\turus\Desktop\programas mios\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.exe
+C:\Users\turus\Desktop\programas mios\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.xml
+C:\Users\turus\Desktop\programas mios\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\x86\Release\Subida automatica de capturas 2.pdb

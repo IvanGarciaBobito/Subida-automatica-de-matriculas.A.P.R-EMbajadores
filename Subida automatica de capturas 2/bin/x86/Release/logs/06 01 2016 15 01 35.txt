@@ -1,0 +1,7 @@
+Creado por Ivan Garcia para la subida automatica de capturas al A.P.R
+_____________________________________________________________________
+
+06/01/2016 15:01:40   Conectando con el ftp del A.P.R
+06/01/2016 15:01:47   Conectado con el ftp del A.P.R
+06/01/2016 15:01:57   La carpeta 01007801_16_01_05 existe en el servidor
+06/01/2016 15:02:05   La carpeta 01007801_16_01_04 existe en el servidor

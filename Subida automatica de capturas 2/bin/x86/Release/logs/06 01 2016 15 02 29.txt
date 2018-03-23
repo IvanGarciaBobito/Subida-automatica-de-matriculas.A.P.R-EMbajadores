@@ -1,0 +1,54 @@
+Creado por Ivan Garcia para la subida automatica de capturas al A.P.R
+_____________________________________________________________________
+
+06/01/2016 15:02:34   Conectando con el ftp del A.P.R
+06/01/2016 15:02:34   Conectado con el ftp del A.P.R
+06/01/2016 15:02:36   La carpeta 01007801_16_01_05 no existe en el servidor
+06/01/2016 15:02:39   Creando la carpeta 01007801_16_01_05 en el servidor
+06/01/2016 15:02:42   Subiendo carpeta 01007801_16_01_05 al ftp del A.P.R
+06/01/2016 15:03:17   Archivo C:\embafichero\01007801\01007801_16_01_05\0000011.jpg subido correctamente
+06/01/2016 15:03:20   Archivo C:\embafichero\01007801\01007801_16_01_05\0000012.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000021.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000022.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000031.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000032.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000041.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000042.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000051.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000052.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000061.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000062.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000071.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000072.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000081.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000082.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000091.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000092.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000101.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000102.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000111.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000112.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000121.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000122.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000131.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000132.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000141.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000142.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000151.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000152.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000161.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\0000162.jpg subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\01007801_1007801_16_01.idx subido correctamente
+06/01/2016 15:03:26   Archivo C:\embafichero\01007801\01007801_16_01_05\01007801_1007801_16_01.txt subido correctamente
+06/01/2016 15:03:31   Error: WinSCP.SessionRemoteException: Error listing directory '/01007801_16_01_05'. ---> WinSCP.SessionRemoteException: Could not retrieve directory listing
+Path does not exist
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en WinSCP.SessionLogReader.Read(LogReadFlags flags)
+   en WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   en WinSCP.SessionElementLogReader.Read(LogReadFlags flags)
+   en WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   en WinSCP.CustomLogReader.TryWaitForNonEmptyElement(String localName, LogReadFlags flags)
+   en WinSCP.CustomLogReader.WaitForNonEmptyElement(String localName, LogReadFlags flags)
+   en WinSCP.CustomLogReader.WaitForNonEmptyElementAndCreateLogReader(String localName, LogReadFlags flags)
+   en WinSCP.Session.ListDirectory(String path)
+   en Subida_automatica_de_capturas_2.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\Form1.vb:línea 100

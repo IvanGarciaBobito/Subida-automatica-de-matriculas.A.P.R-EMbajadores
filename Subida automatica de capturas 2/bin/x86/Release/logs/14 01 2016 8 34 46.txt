@@ -1,0 +1,14 @@
+Creado por Ivan Garcia para la subida automatica de capturas al A.P.R
+_____________________________________________________________________
+
+14/01/2016 8:34:46   Conectando con el ftp del A.P.R
+14/01/2016 8:34:47   Conectado con el ftp del A.P.R
+14/01/2016 8:35:03   La carpeta 01007801_16_01_13 no existe en el servidor
+14/01/2016 8:35:08   Creando la carpeta 01007801_16_01_13 en el servidor
+14/01/2016 8:35:08   Subiendo carpeta 01007801_16_01_13 al ftp del A.P.R
+14/01/2016 8:35:08   Error: System.IO.DirectoryNotFoundException: No se puede encontrar una parte de la ruta de acceso 'C:\embafichero\01007801\01007801_16_01_13'.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   en System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   en System.IO.DirectoryInfo.GetFiles()
+   en Subida_automatica_de_capturas_2.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\Form1.vb:línea 90

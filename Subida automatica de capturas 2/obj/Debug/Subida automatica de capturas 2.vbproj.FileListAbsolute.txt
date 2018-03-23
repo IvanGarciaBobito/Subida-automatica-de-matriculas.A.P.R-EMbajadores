@@ -1,0 +1,11 @@
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\Debug\Subida automatica de capturas 2.exe
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\Debug\Subida automatica de capturas 2.pdb
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\Debug\Subida automatica de capturas 2.xml
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\bin\Debug\WinSCPnet.dll
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\Debug\Subida automatica de capturas 2.vbprojResolveAssemblyReference.cache
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\Debug\Subida_automatica_de_capturas_2.Form1.resources
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\Debug\Subida_automatica_de_capturas_2.Resources.resources
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\Debug\Subida automatica de capturas 2.vbproj.GenerateResource.Cache
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\Debug\Subida automatica de capturas 2.exe
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\Debug\Subida automatica de capturas 2.xml
+c:\users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\obj\Debug\Subida automatica de capturas 2.pdb

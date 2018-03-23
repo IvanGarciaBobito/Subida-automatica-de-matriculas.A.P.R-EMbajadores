@@ -1,0 +1,18 @@
+Creado por Ivan Garcia para la subida automatica de capturas al A.P.R
+_____________________________________________________________________
+
+06/01/2016 14:59:58   Conectando con el ftp del A.P.R
+06/01/2016 14:59:59   Conectado con el ftp del A.P.R
+06/01/2016 14:59:59   La carpeta 01007801_16_01_05 existe en el servidor
+06/01/2016 14:59:59   Error: WinSCP.SessionRemoteException: Error listing directory '/01007801_16_01_05'. ---> WinSCP.SessionRemoteException: Could not retrieve directory listing
+Path does not exist
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en WinSCP.SessionLogReader.Read(LogReadFlags flags)
+   en WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   en WinSCP.SessionElementLogReader.Read(LogReadFlags flags)
+   en WinSCP.ElementLogReader.Read(LogReadFlags flags)
+   en WinSCP.CustomLogReader.TryWaitForNonEmptyElement(String localName, LogReadFlags flags)
+   en WinSCP.CustomLogReader.WaitForNonEmptyElement(String localName, LogReadFlags flags)
+   en WinSCP.CustomLogReader.WaitForNonEmptyElementAndCreateLogReader(String localName, LogReadFlags flags)
+   en WinSCP.Session.ListDirectory(String path)
+   en Subida_automatica_de_capturas_2.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\turus\documents\visual studio 2013\Projects\Subida automatica de capturas 2\Subida automatica de capturas 2\Form1.vb:línea 100
